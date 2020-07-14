@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /* font-size: 62.5%; */
+  font-family: Helvetica, sans-serif;
+  /* background: url(../../images/stripe.png) repeat; */
+  background-color: rgb(241, 241, 241);
+}
+
+p {
+  font-size: 1.3em;
+  margin-bottom: 15px;
+}
+
+.center-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#contact-area {
+  /* margin: 0 auto; */
+  width: 300px;
+}
