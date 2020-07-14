@@ -6,10 +6,10 @@
  * Time: 17:57
  */
 
-$db_host="localhost";
-$db_username="root";
-$db_password="";
-$db_name="emailcapture";
+$db_host="ec2-34-195-169-25.compute-1.amazonaws.com";
+$db_username="fctufjhibrmzck";
+$db_password="b84bd5b5da411c0d3c367a6d7ba74d2898462d4e6079efa0dc3b8e55c59db48b";
+$db_name="deetjv3u173jsk";
 
 
 $db_connect     = mysqli_connect($db_host, $db_username, $db_password, $db_name) or die();
