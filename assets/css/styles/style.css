@@ -15,12 +15,16 @@ p {
   margin-bottom: 15px;
 }
 
-.center-content {
+.image-width {
+  width: 100%;
+}
+
+/* .center-content {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-}
+} */
 
 #contact-area {
   /* margin: 0 auto; */
